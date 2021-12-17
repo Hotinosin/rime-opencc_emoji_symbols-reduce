@@ -1,0 +1,1 @@
+# rime-opencc_emoji_symbols-reduce
